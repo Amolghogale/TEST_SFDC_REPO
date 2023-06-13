@@ -1,6 +1,6 @@
 public inherited sharing class AccountTriggerHandler {
     public AccountTriggerHandler() {
-
+//This is to test//
     }
     Public void BeforeInsert(List<Account> acclist){
         for(Account acc :acclist ){
